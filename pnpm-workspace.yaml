@@ -1,7 +1,0 @@
-allowBuilds:
-  '@firebase/util': true
-  msw: true
-  protobufjs: true
-  sharp: true
-minimumReleaseAgeExclude:
-  - firebase-admin@14.2.0
